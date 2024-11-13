@@ -1,0 +1,86 @@
+html {
+    background-color: black;
+    background-image: url(imgs/light.jpg);
+    background-attachment: fixed;
+
+}
+
+button:hover {
+    background-color: aqua;
+}
+
+.main {
+    background-color: rgb(233, 98, 98);
+    width: 60%;
+    margin-left: 20%;
+    
+    border-radius: 10px;
+    opacity: 0.8;
+    padding: 5px;
+ 
+}
+
+
+.citatas {
+    background-color:  rgb(156, 156, 240);
+    width: 60%;
+    margin-left: 20%;
+
+    opacity: 0.8;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+
+
+.content {
+    background-color: rgb(156, 156, 240);
+    width: 60%;
+    margin-left: 20%;
+
+    opacity: 0.8;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+
+footer {
+
+    background-color: bisque;
+}
+
+.block {
+    background-color: rgb(222, 246, 185);
+    padding: 5px;
+
+}
+
+.menu-table {
+    
+    margin: 2%;
+    background-color: bisque;
+    padding: 5px;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+
+
+.menu {
+    width: 100%;
+    background-color: rgb(233, 98, 98);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    
+    border-radius: 5px;
+}
+
+.menu-table:hover {
+    background-color: rgb(237, 67, 67);
+}
+
+.cont-photo {
+    width: 40%; 
+    border-radius: 10px;
+}
